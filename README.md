@@ -1,28 +1,49 @@
-<h1 align="center">Hi 👋, I'm karthik Selvam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm Karthik Selvam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikashutosh&label=Profile%20views&color=0e75b6&style=flat" alt="karthikashutosh" /> </p>
+## Senior Front End Engineer 
 
-<p align="left"> <a href="https://twitter.com/karthik35873675" target="blank"><img src="https://img.shields.io/twitter/follow/karthik35873675?logo=twitter&style=for-the-badge" alt="karthik35873675" /></a> </p>
+I'm a passionate and results-driven Senior Front End Engineer from Chennai, India, with over 5 years of experience in crafting robust, scalable web applications. My expertise lies in TypeScript, React, and Next.js, with a strong focus on architecting high-performance, responsive user interfaces that seamlessly blend complex functionality with intuitive design.
 
-- 🌱 I’m currently learning **MERN stack Web development**
 
-- 📝 I regularly write articles on [https://hashnode.com/@KarthikSelvam](https://hashnode.com/@KarthikSelvam)
+## 💼 Experience
 
-- 📫 How to reach me **ashutoshkarthik469@gmail.com**
+- **Pickyourtrail** (Dec 2023 - Jun 2024): Senior Software Development Engineer - Front End
+- **Gallabox Pvt Ltd** (Nov 2021 - Dec 2023): Product Engineer
+- **FF Medias** (Jun 2019 - Oct 2021): Web Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/karthik35873675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthik35873675" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karthik-selvam-01439a169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-selvam-01439a169/" height="30" width="40" /></a>
-</p>
+## 🛠️ Technologies & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Kasel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Kasel" /></a></p><br><br>
+## 📫 How to reach me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikashutosh&show_icons=true&locale=en&layout=compact" alt="karthikashutosh" /></p>
+- Email: ashutoshkarthik469@gmail.com
+- LinkedIn: [Karthik Selvam](https://www.linkedin.com/in/karthik-selvam-front-end/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikashutosh&show_icons=true&locale=en" alt="karthikashutosh" /></p>
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikashutosh&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikashutosh&show_icons=true)
+
+## ☕ Support
+
+If you find my work helpful, you can support me by buying me a coffee:
+
+<a href="https://www.buymeacoffee.com/Kasel">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
